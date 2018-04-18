@@ -1,1 +1,1 @@
-# Chameleon-Mac-OS-X-Snow-Leopard
+# Chameleon Mac OS X Snow Leopard

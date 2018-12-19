@@ -1,4 +1,6 @@
 # Chameleon Mac OS X Snow Leopard
+- This is to test macOS
+- Buy a mac after testing macOS
 
 ### Chameleon Mac OS X Snow Leopard is a program that I created to install Mac OS X Snow Leopard from a USB key without any DVD or BootCD. The program is very complete and includes several options of post installations.
 

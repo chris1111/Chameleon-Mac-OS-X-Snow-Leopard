@@ -8,8 +8,7 @@
 - Thanks to all Developer and Coder
 
 
-## Follow Video and every steps in the Readme.pdf
-
+## Follow Video and every steps in the Readme.pdf [Readme.pdf](https://github.com/chris1111/Chameleon-Mac-OS-X-Snow-Leopard/edit/master/README.md)
 ### [Download ➤ V3 Release Chameleon Mac OS X Snow Leopard.zip](https://github.com/chris1111/Chameleon-Mac-OS-X-Snow-Leopard/releases)
 
 ![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/untitl14.jpg)
